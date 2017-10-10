@@ -1,4 +1,4 @@
-# EDA_using_R
+# EDA using R
 Iterative factor level reduction using Decision Tree variable importance.
 Reduces factor levels of categorical variables and limits the count of dummy variables.
 
